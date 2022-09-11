@@ -16,12 +16,6 @@
 
 - 2021.01 Coursera25门课程评价。本文曾经是高赞高收藏高转发（>50）的一篇热门精选，客观评价了25门Coursera文史哲及科普课程，全文已被豆瓣删除。
 
-![image](https://user-images.githubusercontent.com/56275127/189537868-65d7842a-f57e-4d37-a94a-ba27411214a0.png)
-
-![image](https://user-images.githubusercontent.com/56275127/189537880-16f101bd-8c48-4401-8004-198f114f29ff.png)
-
-![image](https://user-images.githubusercontent.com/56275127/189537885-2e76af2d-dfc5-47a4-8205-9c3957afdfd3.png)
-
 可参考：https://mp.weixin.qq.com/s/pIwkTcRoe1p04x7EZzYfGg
 
 ## 2. 已被锁定为仅自己可见的书评（备份[github](https://github.com/junfanz1/Douban/)）：
@@ -31,6 +25,13 @@
 - 《许倬云说美国》摘录
 
 ## 3. 当你好奇为什么有书评看不到的时候，不妨来[github](https://github.com/junfanz1/Douban/)备份找找。
+
+![image](https://user-images.githubusercontent.com/56275127/189537868-65d7842a-f57e-4d37-a94a-ba27411214a0.png)
+
+![image](https://user-images.githubusercontent.com/56275127/189537880-16f101bd-8c48-4401-8004-198f114f29ff.png)
+
+![image](https://user-images.githubusercontent.com/56275127/189537885-2e76af2d-dfc5-47a4-8205-9c3957afdfd3.png)
+
 
 ![image](https://user-images.githubusercontent.com/56275127/189537117-70a707c4-28e1-49e3-a964-18916ba88e31.png)
 
