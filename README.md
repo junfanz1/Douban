@@ -16,7 +16,7 @@
 
 - 2021.01 Coursera 25门课程评价。参考：https://mp.weixin.qq.com/s/pIwkTcRoe1p04x7EZzYfGg
 
-## 2. 已被锁定为仅自己可见的书评（已备份PDF）：
+## 2. 已被锁定为仅自己可见的书评（备份[github](https://github.com/junfanz1/Douban/)）：
 - 马克思韦伯《新教伦理与资本主义精神》读书会纪要。参考：https://mp.weixin.qq.com/s/BhPmVmMow-qT5Ze2wM7ohA
 - 刘瑜《可能性的艺术》随感与摘录
 - 王沪宁《狮城舌战》读后感与摘录
