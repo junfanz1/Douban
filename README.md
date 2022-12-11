@@ -24,19 +24,11 @@
 - 王沪宁《狮城舌战》读后感与摘录
 - 《许倬云说美国》摘录
 
-## 3. 当你好奇为什么有书评看不到的时候，不妨来[github](https://github.com/junfanz1/Douban/)备份找找。
-
-![image](https://user-images.githubusercontent.com/56275127/189537868-65d7842a-f57e-4d37-a94a-ba27411214a0.png)
-
-![image](https://user-images.githubusercontent.com/56275127/189537880-16f101bd-8c48-4401-8004-198f114f29ff.png)
-
-![image](https://user-images.githubusercontent.com/56275127/189537885-2e76af2d-dfc5-47a4-8205-9c3957afdfd3.png)
+## 3. 豆瓣被删书评一览（[备份](https://github.com/junfanz1/Douban/)）。
 
 
 ![image](https://user-images.githubusercontent.com/56275127/189537117-70a707c4-28e1-49e3-a964-18916ba88e31.png)
 
 ![image](https://user-images.githubusercontent.com/56275127/189537193-2c007dd9-9379-4557-9afa-ca331438b37f.png)
-
-![image](https://user-images.githubusercontent.com/56275127/189537200-66c9e77f-f8ed-4463-8702-5feb16aa1873.png)
 
 ![image](https://user-images.githubusercontent.com/56275127/189537206-143ef06a-6836-47a1-8f19-6b0ed9e45a9f.png)
